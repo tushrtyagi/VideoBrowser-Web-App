@@ -3,7 +3,8 @@
   
         
 margin:30px;
-margin-left:150px;
+margin-left:100px;
+
   text-align: center;
   width:70%;
 }
@@ -60,4 +61,18 @@ margin-left:150px;
   display: block;
   flex-direction: column;
 
+}
+
+@media (max-width:418px){
+     .title{
+       left:59px;
+     }
+     .icon{
+       left:9px;
+     }
+     .search-bar{
+       position: absolute;
+       top:10px;
+       right:3px;
+     }
 }

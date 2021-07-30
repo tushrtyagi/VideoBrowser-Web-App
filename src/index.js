@@ -40,7 +40,7 @@ class App extends Component {
        <i className="fab fa-youtube" ></i>
         </div>
         <div>
-          <div className="title"> videos4u </div>
+          <div className="title"> v4u </div>
         </div>
         </div>
         <div>
